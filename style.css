@@ -1,0 +1,143 @@
+html{
+  font-size: 62.5%;
+}
+
+header h1{
+  font-size: 2.8em;
+  color: black;
+  display: flex;
+  margin-left: 35%;
+}
+
+body{
+        font-family: Arial, sans-serif;
+        padding: 0;
+        font-size: 1.6em;
+        }
+
+        img{
+          height: 50em;
+        }
+      
+      nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0px;
+        background-color: #f2f2f2;
+        overflow: hidden;
+      }
+      
+      nav li {
+        float: left;
+      }
+      
+      nav a {
+        display: block;
+        color: #333;
+        text-align: center;
+        padding: 1.4em 1.6em;
+        text-decoration: none;
+      }
+      
+      nav a:hover {
+        background-color: #ddd;
+      }
+      
+      
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 4em;
+      }
+      
+      td {
+        text-align: left;
+        padding: 0.8em;
+         width: 4em; height: 10.0em;
+         padding-left: 5.0em;
+      }
+
+      tr{
+        border: black solid 2px;
+      }
+      
+      th {
+        background-color: #333;
+        color: #fff;
+        width:2.0em ;height:3.5em ;
+    
+      }
+    
+      
+      footer {
+          bottom: 0;
+          position: fixed;
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        width: 115em;
+        padding: 2.0em;
+           height: 30px; /* altura do rodapé */
+      }
+    #rodape {
+    
+     
+      background-color: #333;
+    }
+    
+    h1 {
+      text-align: center;
+    
+    }
+    
+    body{
+    background-color: #B6A5A5;
+    
+    }
+    
+    #tabela{
+    
+    background-color: #fff;
+    
+    }
+
+    #estoqueTitulo{
+      text-align: center;
+      font-size: 3em;
+    }
+
+    #textpFooter{
+      text-align: center;
+    }
+
+    .container-fluid{
+      width: 110em;
+    }
+
+    .mei h1{
+      font-size: 2.2em;
+      color: black;
+      padding: 2em;
+    }
+
+    .mei p{
+      text-align: center;
+      border: solid black 0.1em;
+      font-size: 1.8em;
+      padding: 1em;
+    }
+
+    #video {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #imagemTitulo{
+      background-image: url(Imagens/logo.png);
+      width: 8.6em;
+      height: 2.3em;
+     background-size: cover;
+    }
+
+    
